@@ -1,0 +1,14 @@
+C:\temp\ws-c#orientadoobjeto\Exercicio fixaçao C#\Exercicio fixaçao C#\bin\Debug\net8.0\Exercicio fixaçao C#.exe
+C:\temp\ws-c#orientadoobjeto\Exercicio fixaçao C#\Exercicio fixaçao C#\bin\Debug\net8.0\Exercicio fixaçao C#.deps.json
+C:\temp\ws-c#orientadoobjeto\Exercicio fixaçao C#\Exercicio fixaçao C#\bin\Debug\net8.0\Exercicio fixaçao C#.runtimeconfig.json
+C:\temp\ws-c#orientadoobjeto\Exercicio fixaçao C#\Exercicio fixaçao C#\bin\Debug\net8.0\Exercicio fixaçao C#.dll
+C:\temp\ws-c#orientadoobjeto\Exercicio fixaçao C#\Exercicio fixaçao C#\bin\Debug\net8.0\Exercicio fixaçao C#.pdb
+C:\temp\ws-c#orientadoobjeto\Exercicio fixaçao C#\Exercicio fixaçao C#\obj\Debug\net8.0\Exercicio fixaçao C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-c#orientadoobjeto\Exercicio fixaçao C#\Exercicio fixaçao C#\obj\Debug\net8.0\Exercicio fixaçao C#.AssemblyInfoInputs.cache
+C:\temp\ws-c#orientadoobjeto\Exercicio fixaçao C#\Exercicio fixaçao C#\obj\Debug\net8.0\Exercicio fixaçao C#.AssemblyInfo.cs
+C:\temp\ws-c#orientadoobjeto\Exercicio fixaçao C#\Exercicio fixaçao C#\obj\Debug\net8.0\Exercicio fixaçao C#.csproj.CoreCompileInputs.cache
+C:\temp\ws-c#orientadoobjeto\Exercicio fixaçao C#\Exercicio fixaçao C#\obj\Debug\net8.0\Exercicio fixaçao C#.dll
+C:\temp\ws-c#orientadoobjeto\Exercicio fixaçao C#\Exercicio fixaçao C#\obj\Debug\net8.0\refint\Exercicio fixaçao C#.dll
+C:\temp\ws-c#orientadoobjeto\Exercicio fixaçao C#\Exercicio fixaçao C#\obj\Debug\net8.0\Exercicio fixaçao C#.pdb
+C:\temp\ws-c#orientadoobjeto\Exercicio fixaçao C#\Exercicio fixaçao C#\obj\Debug\net8.0\Exercicio fixaçao C#.genruntimeconfig.cache
+C:\temp\ws-c#orientadoobjeto\Exercicio fixaçao C#\Exercicio fixaçao C#\obj\Debug\net8.0\ref\Exercicio fixaçao C#.dll
